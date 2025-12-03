@@ -9,5 +9,4 @@ This is useful for applications in data mining, pattern recognition, image segme
 
 ---
 
-## 📚 Contents / Structure
 
