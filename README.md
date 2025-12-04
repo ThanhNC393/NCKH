@@ -7,7 +7,7 @@ Rather than assigning each data point to a single cluster (as in hard clustering
 
 This is useful for applications in data mining, pattern recognition, image segmentation, or any domain where rigid cluster boundaries may not reflect reality.
 
-[Uploading hanoi_s2cfc_check.tif…]()
+
 
 
 ---
